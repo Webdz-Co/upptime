@@ -3,19 +3,23 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: girlsinc
+    url: https://girlsinc-houston.org
+  - name: cookieco
+    url: https://gettysburgcookieco.com
+  - name: ntb
+    url: https://northtexasbankruptcy.com
+  - name: rebecca
+    url: https://rebeccadturner.com
+  - name: harmony
+    url: https://harmonylandscapestudio.com
+  - name: holistic
+    url: https://holisticquest.one
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.agencykahuna.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
