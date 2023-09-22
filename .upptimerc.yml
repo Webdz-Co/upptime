@@ -3,6 +3,8 @@ owner: Webdz-Co # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: agency
+    url: https://agencykahuna.com
   - name: girlsinc
     url: https://girlsinc-houston.org
   - name: cookieco
