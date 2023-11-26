@@ -40,19 +40,19 @@
     "url": "https://gettysburgcookieco.com",
     "icon": "https://icons.duckduckgo.com/ip3/gettysburgcookieco.com.ico",
     "slug": "cookieco",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 306,
+    "timeDay": 291,
     "timeWeek": 279,
-    "timeMonth": 272,
+    "timeMonth": 273,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 9
     }
   },
   {
