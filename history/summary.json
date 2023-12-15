@@ -22,18 +22,20 @@
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 335,
-    "timeWeek": 359,
-    "timeMonth": 335,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 405,
+    "timeWeek": 373,
+    "timeMonth": 339,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "cookieco",
