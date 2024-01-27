@@ -4,19 +4,19 @@
     "url": "https://agencykahuna.com",
     "icon": "https://icons.duckduckgo.com/ip3/agencykahuna.com.ico",
     "slug": "agency",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 3725,
-    "timeWeek": 1237,
-    "timeMonth": 897,
+    "timeDay": 2648,
+    "timeWeek": 1154,
+    "timeMonth": 877,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2024-01-27": 0
+      "2024-01-27": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 235,
-    "timeWeek": 293,
-    "timeMonth": 303,
+    "timeDay": 259,
+    "timeWeek": 295,
+    "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-01-27": 0
+      "2024-01-27": 5
     }
   },
   {
