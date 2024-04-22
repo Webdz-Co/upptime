@@ -4,82 +4,90 @@
     "url": "https://agencykahuna.com",
     "icon": "https://icons.duckduckgo.com/ip3/agencykahuna.com.ico",
     "slug": "agency",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 495,
     "timeDay": 240,
     "timeWeek": 345,
     "timeMonth": 449,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 8
+    }
   },
   {
     "name": "girlsinc",
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 321,
     "timeDay": 384,
     "timeWeek": 338,
     "timeMonth": 351,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 6
+    }
   },
   {
     "name": "cookieco",
     "url": "https://gettysburgcookieco.com",
     "icon": "https://icons.duckduckgo.com/ip3/gettysburgcookieco.com.ico",
     "slug": "cookieco",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 221,
     "timeWeek": 285,
     "timeMonth": 278,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 5
+    }
   },
   {
     "name": "ntb",
     "url": "https://northtexasbankruptcy.com",
     "icon": "https://icons.duckduckgo.com/ip3/northtexasbankruptcy.com.ico",
     "slug": "ntb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 280,
     "timeDay": 196,
     "timeWeek": 277,
     "timeMonth": 276,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 3
+    }
   },
   {
     "name": "rebecca",
     "url": "https://rebeccadturner.com",
     "icon": "https://icons.duckduckgo.com/ip3/rebeccadturner.com.ico",
     "slug": "rebecca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
@@ -87,16 +95,18 @@
     "timeWeek": 292,
     "timeMonth": 325,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 2
+    }
   },
   {
     "name": "holistic",
     "url": "https://holisticquest.one",
     "icon": "https://icons.duckduckgo.com/ip3/holisticquest.one.ico",
     "slug": "holistic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 364,
     "timeMonth": 435,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   }
 ]
