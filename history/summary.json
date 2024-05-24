@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/agencykahuna.com.ico",
     "slug": "agency",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 529,
-    "timeDay": 483,
-    "timeWeek": 474,
-    "timeMonth": 738,
+    "timeDay": 530,
+    "timeWeek": 505,
+    "timeMonth": 743,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2024-04-22": 158
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 321,
-    "timeDay": 378,
-    "timeWeek": 319,
-    "timeMonth": 325,
+    "timeDay": 229,
+    "timeWeek": 299,
+    "timeMonth": 319,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-04-22": 156
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 288,
-    "timeDay": 293,
-    "timeWeek": 277,
-    "timeMonth": 281,
+    "timeDay": 318,
+    "timeWeek": 286,
+    "timeMonth": 283,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2024-04-22": 155
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 280,
-    "timeDay": 275,
-    "timeWeek": 263,
-    "timeMonth": 276,
+    "timeDay": 326,
+    "timeWeek": 274,
+    "timeMonth": 279,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2024-04-22": 153
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 301,
-    "timeDay": 309,
-    "timeWeek": 300,
-    "timeMonth": 274,
+    "timeDay": 333,
+    "timeWeek": 304,
+    "timeMonth": 275,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2024-04-22": 152
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 425,
-    "timeDay": 434,
-    "timeWeek": 499,
-    "timeMonth": 407,
-    "timeYear": 425,
+    "time": 426,
+    "timeDay": 787,
+    "timeWeek": 553,
+    "timeMonth": 424,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2024-04-22": 150
     }
