@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 571,
-    "timeDay": 436,
-    "timeWeek": 378,
-    "timeMonth": 585,
+    "timeDay": 559,
+    "timeWeek": 374,
+    "timeMonth": 587,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2024-04-22": 158
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 332,
-    "timeDay": 394,
-    "timeWeek": 378,
-    "timeMonth": 399,
-    "timeYear": 332,
+    "time": 333,
+    "timeDay": 396,
+    "timeWeek": 386,
+    "timeMonth": 400,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2024-04-22": 156
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 294,
-    "timeDay": 384,
-    "timeWeek": 337,
-    "timeMonth": 331,
-    "timeYear": 294,
+    "time": 293,
+    "timeDay": 263,
+    "timeWeek": 333,
+    "timeMonth": 330,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2024-04-22": 155
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 285,
-    "timeDay": 413,
-    "timeWeek": 322,
-    "timeMonth": 316,
+    "timeDay": 417,
+    "timeWeek": 342,
+    "timeMonth": 320,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2024-04-22": 153
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 310,
-    "timeDay": 466,
-    "timeWeek": 358,
-    "timeMonth": 384,
-    "timeYear": 310,
+    "time": 311,
+    "timeDay": 434,
+    "timeWeek": 373,
+    "timeMonth": 389,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2024-04-22": 152
     }
@@ -105,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/holisticquest.one.ico",
     "slug": "holistic",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 430,
-    "timeDay": 376,
-    "timeWeek": 343,
-    "timeMonth": 416,
-    "timeYear": 430,
+    "uptimeYear": "99.97%",
+    "time": 431,
+    "timeDay": 637,
+    "timeWeek": 357,
+    "timeMonth": 428,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2024-04-22": 150
     }
