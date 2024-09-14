@@ -4,19 +4,19 @@
     "url": "https://agencykahuna.com",
     "icon": "https://icons.duckduckgo.com/ip3/agencykahuna.com.ico",
     "slug": "agency",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 593,
-    "timeDay": 599,
-    "timeWeek": 623,
-    "timeMonth": 850,
-    "timeYear": 593,
+    "time": 592,
+    "timeDay": 462,
+    "timeWeek": 586,
+    "timeMonth": 834,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-09-14": 16,
+      "2024-09-14": 18,
       "2024-04-22": 158
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 352,
-    "timeDay": 310,
-    "timeWeek": 609,
-    "timeMonth": 529,
+    "timeDay": 338,
+    "timeWeek": 585,
+    "timeMonth": 524,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-09-14": 15,
+      "2024-09-14": 17,
       "2024-04-22": 156
     }
   },
@@ -48,9 +48,9 @@
     "slug": "cookieco",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 323,
     "timeDay": 256,
@@ -58,7 +58,6 @@
     "timeMonth": 607,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2024-09-14": 13,
       "2024-04-22": 155
     }
   },
@@ -69,9 +68,9 @@
     "slug": "ntb",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
     "timeDay": 281,
@@ -79,7 +78,6 @@
     "timeMonth": 490,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2024-09-14": 11,
       "2024-04-22": 153
     }
   },
@@ -90,9 +88,9 @@
     "slug": "rebecca",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 340,
     "timeDay": 322,
@@ -100,7 +98,6 @@
     "timeMonth": 638,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-09-14": 10,
       "2024-04-22": 152
     }
   },
@@ -111,9 +108,9 @@
     "slug": "holistic",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 472,
     "timeDay": 411,
@@ -121,7 +118,6 @@
     "timeMonth": 864,
     "timeYear": 472,
     "dailyMinutesDown": {
-      "2024-09-14": 9,
       "2024-04-22": 150
     }
   }
