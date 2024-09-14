@@ -24,10 +24,10 @@
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 353,
@@ -36,6 +36,7 @@
     "timeMonth": 538,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2024-09-14": 2,
       "2024-04-22": 156
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://gettysburgcookieco.com",
     "icon": "https://icons.duckduckgo.com/ip3/gettysburgcookieco.com.ico",
     "slug": "cookieco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -56,6 +57,7 @@
     "timeMonth": 630,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-04-22": 155
     }
   },
