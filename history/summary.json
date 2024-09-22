@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 641,
-    "timeDay": 600,
-    "timeWeek": 2153,
+    "timeDay": 638,
+    "timeWeek": 2593,
     "timeMonth": 1303,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -28,14 +28,14 @@
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 353,
     "timeDay": 395,
-    "timeWeek": 379,
+    "timeWeek": 391,
     "timeMonth": 515,
-    "timeYear": 353,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-09-14": 17,
       "2024-04-22": 156
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 322,
-    "timeDay": 314,
-    "timeWeek": 266,
+    "timeDay": 325,
+    "timeWeek": 270,
     "timeMonth": 575,
-    "timeYear": 322,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2024-04-22": 155
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
-    "timeDay": 250,
-    "timeWeek": 304,
-    "timeMonth": 489,
-    "timeYear": 305,
+    "timeDay": 296,
+    "timeWeek": 298,
+    "timeMonth": 487,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2024-04-22": 153
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 340,
-    "timeDay": 294,
-    "timeWeek": 317,
+    "timeDay": 315,
+    "timeWeek": 312,
     "timeMonth": 629,
-    "timeYear": 340,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2024-04-22": 152
     }
@@ -113,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 468,
-    "timeDay": 323,
-    "timeWeek": 307,
-    "timeMonth": 813,
-    "timeYear": 468,
+    "timeDay": 359,
+    "timeWeek": 318,
+    "timeMonth": 800,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2024-04-22": 150
     }
