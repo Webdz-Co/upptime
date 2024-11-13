@@ -106,18 +106,19 @@
     "url": "https://holisticquest.one",
     "icon": "https://icons.duckduckgo.com/ip3/holisticquest.one.ico",
     "slug": "holistic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 459,
-    "timeDay": 575,
-    "timeWeek": 364,
-    "timeMonth": 425,
+    "time": 458,
+    "timeDay": 408,
+    "timeWeek": 349,
+    "timeMonth": 420,
     "timeYear": 464,
     "dailyMinutesDown": {
+      "2024-11-13": 0,
       "2024-04-22": 150
     }
   }
