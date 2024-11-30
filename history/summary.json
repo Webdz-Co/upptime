@@ -4,7 +4,7 @@
     "url": "https://agencykahuna.com",
     "icon": "https://icons.duckduckgo.com/ip3/agencykahuna.com.ico",
     "slug": "agency",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
@@ -16,6 +16,7 @@
     "timeMonth": 409,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2024-11-30": 0,
       "2024-11-27": 69,
       "2024-11-26": 0,
       "2024-09-14": 18,
