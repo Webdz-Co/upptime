@@ -4,8 +4,6 @@ repo: upptime # The name of this repository
 user-agent: Webdz-Co
 
 sites:
-  - name: agency
-    url: https://agencykahuna.com
   - name: girlsinc
     url: https://girlsinc-houston.org
   - name: cookieco
