@@ -4,7 +4,7 @@
     "url": "https://girlsinc-houston.org",
     "icon": "https://icons.duckduckgo.com/ip3/girlsinc-houston.org.ico",
     "slug": "girlsinc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 231,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2025-03-08": 0,
       "2025-01-25": 17,
       "2024-11-18": 19,
       "2024-09-14": 17,
