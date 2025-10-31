@@ -29,9 +29,9 @@
     "slug": "cookieco",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 445,
     "timeDay": 745,
@@ -39,7 +39,7 @@
     "timeMonth": 375,
     "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-10-31": 0,
+      "2025-10-31": 20,
       "2025-04-02": 32
     }
   },
@@ -50,8 +50,8 @@
     "slug": "ntb",
     "status": "up",
     "uptime": "85.34%",
-    "uptimeDay": "30.12%",
-    "uptimeWeek": "4.30%",
+    "uptimeDay": "31.53%",
+    "uptimeWeek": "4.50%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "69.09%",
     "time": 302,
